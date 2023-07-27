@@ -1,2 +1,2 @@
 # discord.js
-Discord bot create using discord.js
+Discord bot created using discord.js
