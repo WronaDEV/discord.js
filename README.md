@@ -7,6 +7,6 @@ Discord bot with a lot of features.
  - Admin commands
  - Fun Commands
 
--
+<br>
 
 Created using discord.js
